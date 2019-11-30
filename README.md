@@ -15,8 +15,7 @@ that are short-term, casual users.
 
 ## Dependancies
 
-In this project I used the Python 3 programming language in the analysis of this system.
-the tool I used is the Jupyter notebook.
-
+1. python 3 
+2. Jupyter notebook
 
 
